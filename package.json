@@ -1,0 +1,13 @@
+{
+  "name": "capicua",
+  "version": "1.0.0",
+  "main": "capicua.js",
+  "author": "Joaquim Manzini / Emanuel Manzini / Josué Manzini",
+  "license": "MIT",
+  "dependencies": {
+    "jest": "^29.7.0"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
